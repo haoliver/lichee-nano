@@ -1,0 +1,27 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "git.ignoreLimitWarning": true,
+        "cmake.statusbar.advanced": {
+            "debug": {
+                "visibility": "hidden"
+            },
+            "launch": {
+                "visibility": "hidden"
+            },
+            "build": {
+                "visibility": "default"
+            },
+            "buildTarget": {
+                "visibility": "hidden"
+            }
+        },
+        "cmake.buildBeforeRun": true,
+        "cmake.configureOnOpen": false,
+        "C_Cpp.autoAddFileAssociations": false
+    }
+}
